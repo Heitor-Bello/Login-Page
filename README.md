@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O #BoraCodar é um projeto da RocketSeat feito para aprender na prática.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://heitor-bello.github.io/Login-Page/)
 
 ## 🔖 Layout
 
